@@ -36,7 +36,7 @@
 #### 3.2.4. Performance and Optimization
 #### 3.2.5. Design and Components
 #### 3.2.6. Testing and A/B Testing
-#### 3.2.7. Deployment, Distribution and Beta Testing
+#### 3.2.7. Distribution and Beta Testing
 
 ### 3.3. API and Backend development
 
