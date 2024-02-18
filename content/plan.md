@@ -7,7 +7,7 @@
 ### 1.2. Problem Statement
 ### 1.3. Project Goals
 ### 1.4. Project Objectives
-### 1.5. Project Results
+### 1.5. Project Results      //I think results shold be in conclusion rather than there
 
 
 ## 2. Project Justification
@@ -23,7 +23,8 @@
 ### 3.1. Project development flow
 
 #### 3.1.1. Overview
-#### 3.1.2. Project Management
+#### 3.1.2. Project Management      
+//I would add Solution Architecture section
 #### 3.1.3. Mobile Application
 #### 3.1.4. API and Backend
 #### 3.1.5. Design and Components
