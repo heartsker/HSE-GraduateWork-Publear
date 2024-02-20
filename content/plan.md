@@ -7,7 +7,6 @@
 ### 1.2. Problem Statement
 ### 1.3. Project Goals
 ### 1.4. Project Objectives
-### 1.5. Project Results      //I think results shold be in conclusion rather than there
 
 
 ## 2. Project Justification
@@ -23,7 +22,7 @@
 ### 3.1. [Project development flow](3_1.md)
 
 #### 3.1.1. Overview
-#### 3.1.2. Project Management      
+#### 3.1.2. Project Management
 //I would add Solution Architecture section
 #### 3.1.3. Mobile Application
 #### 3.1.4. API and Backend
@@ -46,22 +45,20 @@
 #### 3.3.3. Client-Server communication
 #### 3.3.4. Authentication and Authorization
 
-## 4. Project Results
+## 4. Conclusion
 
 ## 5. Project Future Evaluation
 
 ### 5.1 Future Plans
 ### 5.2. Possible core features
 
-## 6. Conclusion
+## 6. References
 
-## 7. References
+## 7. Appendix
 
-## 8. Appendix
-
-### 8.1. Appendix A: Project Proposal
+### 7.1. Appendix A: Project Proposal
 
 ---
 
-Total number of sections - 8
-Total number of subsections - 31
+Total number of sections - 7
+Total number of subsections - 27
