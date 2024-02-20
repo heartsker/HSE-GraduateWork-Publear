@@ -12,15 +12,15 @@
 
 ## 2. Project Justification
 
-### 2.1. Project Relevance
-### 2.2. Market Analysis
-### 2.3. Research of scientific works
-### 2.4. Project Benefits
+### 2.1. [Project Relevance](2_1.md)
+### 2.2. [Market Analysis](2_2.md)
+### 2.3. [Project Description](2_3.md)
+### 2.4. [Project Benefits](2_4.md)
 
 
 ## 3. Development
 
-### 3.1. Project development flow
+### 3.1. [Project development flow](3_1.md)
 
 #### 3.1.1. Overview
 #### 3.1.2. Project Management      
@@ -29,7 +29,7 @@
 #### 3.1.4. API and Backend
 #### 3.1.5. Design and Components
 
-### 3.2. Mobile Application development
+### 3.2. [Mobile Application development](3_2.md)
 
 #### 3.2.1. Overview
 #### 3.2.2. Architecture
